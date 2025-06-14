@@ -1,2 +1,4 @@
 # ML_LabRecord
-Machine Learning Lab Records
+Eaga Srividya
+B201493
+CSE-E3(C3)
